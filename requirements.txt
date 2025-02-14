@@ -1,5 +1,6 @@
 fastapi
+uvicorn
+mangum
 pydantic
 sqlalchemy
-uvicorn
 asgiref
